@@ -6,7 +6,7 @@ FP&A and BI analyst who also builds the tools. Since October 2026 I have worked 
 
 ---
 
-## iThena Expense (ClearLedger)
+## iThena Expense
 Company-wide expense app: category limits, approval routing, trips, receipts, reimbursements and admin policy controls, in light and dark mode and on a phone.
 
 <p>
