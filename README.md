@@ -72,7 +72,7 @@ Two Java web apps on Apache Tomcat (a login and registration app with a database
 - [Billing App Review](projects/billing-app-review.md): recommended-changes review of the internal Billing app
 - [Technical Evaluation](projects/technical-evaluation.md): SQL reconciliation, Tableau SaaS dashboards, Snowflake cost analysis, pipeline design and a CFO dashboard ([code](https://github.com/sayyamdoshii/ithena-technical-evaluation-sayyamdoshi))
 
-## Skills shown here
+## Skills
 Requirements to prototype with Claude Code · workflow and approval automation · LLM and API integration · PostgreSQL and background jobs · UAT, test planning and bug triage · FP&A, month-end close, variance analysis and KPI dashboards (Power BI, Tableau, SQL, Python)
 
 ## Contact
