@@ -12,6 +12,25 @@ The company needed one place to track employee expenses and a reliable way to st
 - Receipt-based duplicate detection. Early logic compared location, time and amount, which flagged legitimate repeat purchases. I changed it to key on the receipt number, so true repeat claims are stopped without blocking valid expenses.
 - Redesigned the filters, reporting views and UI to speed up approval reviews.
 
+## Screenshots
+_Design mockups with sample data. Any real names are blurred._
+
+**Dashboard**
+
+![Dashboard](../screenshots/ithena-expense-dashboard.png)
+
+**Expenses list with filters**
+
+![Expenses list with filters](../screenshots/ithena-expense-expenses.png)
+
+**Approvals with duplicate and policy flags**
+
+![Approvals with duplicate and policy flags](../screenshots/ithena-expense-approvals.png)
+
+**Reports**
+
+![Reports](../screenshots/ithena-expense-reports.png)
+
 ## What I learned
 - Duplicate detection is a business rule first and a code problem second. Choosing the right key (receipt number) mattered more than the algorithm.
 - Reviewing the approach with a teammate before building saved a rewrite.

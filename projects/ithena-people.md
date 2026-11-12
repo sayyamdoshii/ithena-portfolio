@@ -13,6 +13,17 @@ Onboarding new employees involved scattered emails and manual approvals, with no
 - Built a multi-level sign-off workflow that routes each step from the employee up to HR for final review.
 - After a leadership review, reworked the experience to be simpler for first-time users.
 
+## Screenshots
+_Design mockups with sample data. Any real names are blurred._
+
+**HR dashboard: onboarding cases and what needs attention**
+
+![HR dashboard: onboarding cases and what needs attention](../screenshots/ithena-people-dashboard.png)
+
+**Automated onboarding emails**
+
+![Automated onboarding emails](../screenshots/ithena-people-emails.png)
+
 ## What I learned
 - Requirements documents are a starting point; the first leadership demo is where the real requirements show up.
 - Simple flows beat feature-rich ones for people who only use a tool once.
